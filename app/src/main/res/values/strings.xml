@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="input_fragment">Input fragment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="button">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="output_fragment">Output fragment</string>
+</resources>
